@@ -1,0 +1,1 @@
+BUILD_SUBMITTER -x -m baidu/map-intl-qa/common -c "cd baidu/map-intl-qa/common && mkdir output && cp BCLOUD ./output/" -u ./

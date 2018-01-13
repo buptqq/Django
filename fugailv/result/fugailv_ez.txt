@@ -1,0 +1,6 @@
+execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ez as basic inner join t_pic_ez as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' group by city,category1]
+execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and address is not NULL group by city,category1]
+execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and phone is not NULL group by city,category1]
+execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and overall_rating is not NULL group by city,category1]
+execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and price is not NULL group by city,category1]

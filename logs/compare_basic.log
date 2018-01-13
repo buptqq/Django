@@ -1,0 +1,35 @@
+Mon, 19 Dec 2016 15:34:29 compare_basic.py[line:50] DEBUG execute sql :[select city_id,src_type,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') group by src_type]
+Mon, 19 Dec 2016 15:58:00 compare_basic.py[line:50] DEBUG execute sql :[select city_id,src_type,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') group by src_type]
+Mon, 19 Dec 2016 16:13:39 compare_basic.py[line:53] DEBUG sql execute done !
+Mon, 19 Dec 2016 16:13:39 compare_basic.py[line:60] DEBUG  -------src_type-------    data write into --database-- success !
+Mon, 19 Dec 2016 16:13:39 compare_basic.py[line:85] DEBUG execute sql :[select city_id,sub_src,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区' group by sub_src)]
+Mon, 19 Dec 2016 17:22:27 compare_basic.py[line:97] ERROR execute sql :[select city_id,sub_src,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区' group by sub_src)]
+Mon, 19 Dec 2016 17:37:24 compare_basic.py[line:50] DEBUG execute sql :[select city_id,src_type,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and src_type not like 'zt_%' group by src_type]
+Mon, 19 Dec 2016 17:58:26 compare_basic.py[line:53] DEBUG sql execute done !
+Mon, 19 Dec 2016 17:58:26 compare_basic.py[line:63] ERROR execute sql :[select city_id,src_type,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and src_type not like 'zt_%' group by src_type]
+Mon, 19 Dec 2016 17:58:26 compare_basic.py[line:86] DEBUG execute sql :[select city_id,sub_src,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and sub_src = 'dianping']
+Mon, 19 Dec 2016 18:03:50 compare_basic.py[line:50] DEBUG execute sql :[select city_id,src_type,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and src_type not like 'zt_%' group by src_type]
+Mon, 19 Dec 2016 18:21:34 compare_basic.py[line:53] DEBUG sql execute done !
+Mon, 19 Dec 2016 18:21:34 compare_basic.py[line:62] ERROR execute sql :[select city_id,src_type,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and src_type not like 'zt_%' group by src_type]
+Mon, 19 Dec 2016 18:21:34 compare_basic.py[line:85] DEBUG execute sql :[select city_id,sub_src,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and sub_src = 'dianping']
+Mon, 19 Dec 2016 18:30:12 compare_basic.py[line:88] DEBUG sql execute done !
+Mon, 19 Dec 2016 18:30:12 compare_basic.py[line:97] ERROR execute sql :[select city_id,sub_src,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and sub_src = 'dianping']
+Mon, 19 Dec 2016 18:39:35 compare_basic.py[line:50] DEBUG execute sql :[select city_id,src_type,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and src_type not like 'zt_%' group by src_type]
+Mon, 19 Dec 2016 18:55:30 compare_basic.py[line:53] DEBUG sql execute done !
+Mon, 19 Dec 2016 18:55:30 compare_basic.py[line:60] DEBUG  -------src_type-------    data write into --database-- success !
+Mon, 19 Dec 2016 18:55:30 compare_basic.py[line:85] DEBUG execute sql :[select city_id,sub_src,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and sub_src = 'dianping']
+Mon, 19 Dec 2016 19:04:07 compare_basic.py[line:88] DEBUG sql execute done !
+Mon, 19 Dec 2016 19:04:07 compare_basic.py[line:95] DEBUG  -----sub_src------    data write into --database-- success !
+Mon, 19 Dec 2016 19:04:07 compare_basic.py[line:50] DEBUG execute sql :[select city_id,src_type,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '韩国') and src_type not like 'zt_%' group by src_type]
+Mon, 19 Dec 2016 19:20:06 compare_basic.py[line:53] DEBUG sql execute done !
+Mon, 19 Dec 2016 19:20:06 compare_basic.py[line:60] DEBUG  -------src_type-------    data write into --database-- success !
+Mon, 19 Dec 2016 19:20:06 compare_basic.py[line:85] DEBUG execute sql :[select city_id,sub_src,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '韩国') and sub_src = 'dianping']
+Mon, 19 Dec 2016 19:28:46 compare_basic.py[line:88] DEBUG sql execute done !
+Mon, 19 Dec 2016 19:28:46 compare_basic.py[line:95] DEBUG  -----sub_src------    data write into --database-- success !
+Mon, 19 Dec 2016 19:28:46 compare_basic.py[line:50] DEBUG execute sql :[select city_id,src_type,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '泰国') and src_type not like 'zt_%' group by src_type]
+Mon, 19 Dec 2016 19:44:27 compare_basic.py[line:53] DEBUG sql execute done !
+Mon, 19 Dec 2016 19:44:27 compare_basic.py[line:60] DEBUG  -------src_type-------    data write into --database-- success !
+Mon, 19 Dec 2016 19:44:27 compare_basic.py[line:85] DEBUG execute sql :[select city_id,sub_src,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '泰国') and sub_src = 'dianping']
+Mon, 19 Dec 2016 19:53:03 compare_basic.py[line:88] DEBUG sql execute done !
+Mon, 19 Dec 2016 19:53:03 compare_basic.py[line:95] DEBUG  -----sub_src------    data write into --database-- success !
+Wed, 21 Dec 2016 13:43:07 compare_basic_tag.py[line:50] DEBUG execute sql :[select city_id,src_type,std_tag,count(pid) from t_poi_basic where city_id in (select cityid from area_qa where countryname = '澳门特别行政区') and src_type not like 'zt_%' group by src_type,std_tag]

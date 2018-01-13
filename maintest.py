@@ -1,0 +1,25 @@
+# coding=utf8
+
+import time
+from common import configutil
+from config import logconf
+import logging
+import sqlalchemy
+import sqlalchemy.orm
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy import MetaData, Table, Column, Integer, String
+from sqlalchemy.orm import mapper
+from common import jobutil
+from common import jsonutil
+from common import message
+import worker
+
+if __name__ == '__main__':
+    parameters = {'country': ['香港'],'taskid':1003}
+    cm = message.CommandMessage(module_name='fugailv.fugailv', func_name='main', parameters=parameters, job='test_job')
+    print jsonutil.object2json(cm)#序列化
+    testjson = jsonutil.object2json(cm)
+    # testjson = '{"job": "test_job", "__module__": "common.message", "parameters": {"host": "map.baidu.com", "table_name": "evaluate_query", "job_name": "job_zzz_test_99999999"}, "func_name": "execute", "class_name": null, "module_name": "app.search_recall", "__class__": "CommandMessage"}'
+    worker.call_func_in_progress(testjson)
+    #print worker.is_multiprocessing()
+

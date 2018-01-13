@@ -1,0 +1,56 @@
+execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_qy as basic inner join t_pic_qy as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+{"category1": "交通", "city": "香港", "count(distinct basic.sid)": 27}
+{"category1": "休闲娱乐", "city": "香港", "count(distinct basic.sid)": 16}
+{"category1": "景点观光", "city": "香港", "count(distinct basic.sid)": 237}
+{"category1": "游览线路", "city": "香港", "count(distinct basic.sid)": 6}
+{"category1": "美食", "city": "香港", "count(distinct basic.sid)": 646}
+{"category1": "购物", "city": "香港", "count(distinct basic.sid)": 184}
+{"category1": "赛事演出", "city": "香港", "count(distinct basic.sid)": 1}
+{"category1": "运动户外", "city": "香港", "count(distinct basic.sid)": 8}
+execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' group by city,category1]
+{"category1": "", "city": "香港", "count(sid)": 1}
+{"category1": "交通", "city": "香港", "count(sid)": 37}
+{"category1": "休闲娱乐", "city": "香港", "count(sid)": 178}
+{"category1": "景点", "city": "香港", "count(sid)": 1}
+{"category1": "景点观光", "city": "香港", "count(sid)": 455}
+{"category1": "游览线路", "city": "香港", "count(sid)": 36}
+{"category1": "美食", "city": "香港", "count(sid)": 3584}
+{"category1": "购物", "city": "香港", "count(sid)": 415}
+{"category1": "赛事演出", "city": "香港", "count(sid)": 1}
+{"category1": "运动户外", "city": "香港", "count(sid)": 64}
+execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and address is not NULL group by city,category1]
+{"category1": "", "city": "香港", "count(sid)": 1}
+{"category1": "交通", "city": "香港", "count(sid)": 13}
+{"category1": "休闲娱乐", "city": "香港", "count(sid)": 173}
+{"category1": "景点", "city": "香港", "count(sid)": 1}
+{"category1": "景点观光", "city": "香港", "count(sid)": 398}
+{"category1": "游览线路", "city": "香港", "count(sid)": 34}
+{"category1": "美食", "city": "香港", "count(sid)": 3563}
+{"category1": "购物", "city": "香港", "count(sid)": 405}
+{"category1": "运动户外", "city": "香港", "count(sid)": 59}
+execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and phone is not NULL group by city,category1]
+{"category1": "交通", "city": "香港", "count(sid)": 4}
+{"category1": "休闲娱乐", "city": "香港", "count(sid)": 150}
+{"category1": "景点观光", "city": "香港", "count(sid)": 137}
+{"category1": "游览线路", "city": "香港", "count(sid)": 27}
+{"category1": "美食", "city": "香港", "count(sid)": 3184}
+{"category1": "购物", "city": "香港", "count(sid)": 218}
+{"category1": "运动户外", "city": "香港", "count(sid)": 36}
+execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and overall_rating is not NULL group by city,category1]
+{"category1": "", "city": "香港", "count(sid)": 1}
+{"category1": "交通", "city": "香港", "count(sid)": 32}
+{"category1": "休闲娱乐", "city": "香港", "count(sid)": 28}
+{"category1": "景点", "city": "香港", "count(sid)": 1}
+{"category1": "景点观光", "city": "香港", "count(sid)": 411}
+{"category1": "游览线路", "city": "香港", "count(sid)": 7}
+{"category1": "美食", "city": "香港", "count(sid)": 737}
+{"category1": "购物", "city": "香港", "count(sid)": 182}
+{"category1": "赛事演出", "city": "香港", "count(sid)": 1}
+{"category1": "运动户外", "city": "香港", "count(sid)": 20}
+execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and price is not NULL group by city,category1]
+{"category1": "休闲娱乐", "city": "香港", "count(sid)": 21}
+{"category1": "景点观光", "city": "香港", "count(sid)": 82}
+{"category1": "游览线路", "city": "香港", "count(sid)": 5}
+{"category1": "美食", "city": "香港", "count(sid)": 2868}
+{"category1": "购物", "city": "香港", "count(sid)": 6}
+{"category1": "运动户外", "city": "香港", "count(sid)": 8}

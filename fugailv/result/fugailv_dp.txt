@@ -1,0 +1,12 @@
+execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_dp as basic inner join t_pic_dp as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+{"category1": "美食", "city": "香港", "count(distinct basic.sid)": 6}
+execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+{"category1": "美食", "city": "香港", "count(sid)": 13}
+execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and address is not NULL group by city,category1]
+{"category1": "美食", "city": "香港", "count(sid)": 13}
+execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and phone is not NULL group by city,category1]
+{"category1": "美食", "city": "香港", "count(sid)": 13}
+execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and overall_rating is not NULL group by city,category1]
+{"category1": "美食", "city": "香港", "count(sid)": 2}
+execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and price is not NULL group by city,category1]
+{"category1": "美食", "city": "香港", "count(sid)": 1}

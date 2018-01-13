@@ -1,0 +1,38 @@
+Fri, 16 Dec 2016 11:30:07 count_poi.py[line:46] DEBUG execute sql :[select count(pid) from t_poi_res where city_id in (select cityid from area_qa where countryname = '澳门特别行政区')]
+Fri, 16 Dec 2016 11:43:58 count_poi.py[line:49] DEBUG sql execute done !
+Fri, 16 Dec 2016 11:43:58 count_poi.py[line:56] ERROR execute sql :[select count(pid) from t_poi_res where city_id in (select cityid from area_qa where countryname = '澳门特别行政区')]
+Fri, 16 Dec 2016 14:45:10 count_poi.py[line:46] DEBUG execute sql :[select city_id,count(pid) from t_poi_res where city_id in (select cityid from area_qa where countryname = '澳门特别行政区')]
+Fri, 16 Dec 2016 15:02:28 count_poi.py[line:49] DEBUG sql execute done !
+Fri, 16 Dec 2016 15:02:28 count_poi.py[line:56] DEBUG data write into --database-- success !
+Fri, 16 Dec 2016 15:02:28 count_poi.py[line:46] DEBUG execute sql :[select city_id,count(pid) from t_poi_res where city_id in (select cityid from area_qa where countryname = '泰国')]
+Fri, 16 Dec 2016 15:27:23 count_poi.py[line:49] DEBUG sql execute done !
+Fri, 16 Dec 2016 15:27:23 count_poi.py[line:56] DEBUG data write into --database-- success !
+Fri, 16 Dec 2016 16:15:32 heartbeat.py[line:74] DEBUG Received heartbeat frame
+Fri, 16 Dec 2016 16:15:32 heartbeat.py[line:85] DEBUG Received 1 heartbeat frames, sent 0
+Fri, 16 Dec 2016 16:15:32 heartbeat.py[line:144] DEBUG Sending heartbeat frame
+Fri, 16 Dec 2016 16:16:32 heartbeat.py[line:74] DEBUG Received heartbeat frame
+Fri, 16 Dec 2016 16:16:32 heartbeat.py[line:85] DEBUG Received 2 heartbeat frames, sent 1
+Fri, 16 Dec 2016 16:16:32 heartbeat.py[line:144] DEBUG Sending heartbeat frame
+Fri, 16 Dec 2016 16:17:32 heartbeat.py[line:74] DEBUG Received heartbeat frame
+Fri, 16 Dec 2016 16:17:32 heartbeat.py[line:85] DEBUG Received 3 heartbeat frames, sent 2
+Fri, 16 Dec 2016 16:17:32 heartbeat.py[line:144] DEBUG Sending heartbeat frame
+Fri, 16 Dec 2016 16:18:32 heartbeat.py[line:85] DEBUG Received 3 heartbeat frames, sent 3
+Fri, 16 Dec 2016 16:18:32 heartbeat.py[line:144] DEBUG Sending heartbeat frame
+Fri, 16 Dec 2016 16:18:32 heartbeat.py[line:74] DEBUG Received heartbeat frame
+Fri, 16 Dec 2016 16:18:47 callback.py[line:220] DEBUG Processing 1:Basic.Cancel
+Fri, 16 Dec 2016 16:18:47 callback.py[line:234] DEBUG Calling <bound method Channel._on_cancel of <pika.channel.Channel object at 0x7fa1d31b7ad0>> for "1:Basic.Cancel"
+Fri, 16 Dec 2016 16:18:47 callback.py[line:234] DEBUG Calling <bound method BlockingChannel._on_consumer_cancelled_by_broker of <pika.adapters.blocking_connection.BlockingChannel object at 0x7fa1ce29a4d0>> for "1:Basic.Cancel"
+Fri, 16 Dec 2016 16:41:19 count_poi.py[line:46] DEBUG execute sql :[select city_id,count(pid) from t_poi_res where city_id in (select cityid from area_qa where countryname = '澳门特别行政区')]
+Fri, 16 Dec 2016 16:54:22 count_poi.py[line:47] DEBUG execute sql :[select city_id,count(pid) from t_poi_res where city_id in (select cityid from area_qa where countryname = '澳门特别行政区')]
+Fri, 16 Dec 2016 17:09:13 count_poi.py[line:50] DEBUG sql execute done !
+Fri, 16 Dec 2016 17:09:13 count_poi.py[line:57] DEBUG data write into --database-- success !
+Fri, 16 Dec 2016 17:09:13 count_poi.py[line:47] DEBUG execute sql :[select city_id,count(pid) from t_poi_res where city_id in (select cityid from area_qa where countryname = '泰国')]
+Fri, 16 Dec 2016 17:23:18 count_poi.py[line:50] DEBUG sql execute done !
+Fri, 16 Dec 2016 17:23:18 count_poi.py[line:57] DEBUG data write into --database-- success !
+Fri, 16 Dec 2016 17:23:18 base_connection.py[line:335] ERROR Socket Error: 104
+Fri, 16 Dec 2016 17:23:18 heartbeat.py[line:108] DEBUG Removing timeout for next heartbeat interval
+Fri, 16 Dec 2016 17:23:18 base_connection.py[line:180] WARNING Socket closed when connection was open
+Fri, 16 Dec 2016 17:23:18 callback.py[line:164] DEBUG Added: {'callback': <bound method SelectConnection._on_connection_start of <pika.adapters.select_connection.SelectConnection object at 0x7f456df2b350>>, 'only': None, 'one_shot': True, 'arguments': None, 'calls': 1}
+Fri, 16 Dec 2016 17:23:18 connection.py[line:1360] WARNING Disconnected from RabbitMQ at 10.99.199.16:5672 (0): Not specified
+Fri, 16 Dec 2016 17:23:18 callback.py[line:220] DEBUG Processing 0:_on_connection_closed
+Fri, 16 Dec 2016 17:23:18 callback.py[line:234] DEBUG Calling <bound method _CallbackResult.set_value_once of <pika.adapters.blocking_connection._CallbackResult object at 0x7f456df2c3b0>> for "0:_on_connection_closed"

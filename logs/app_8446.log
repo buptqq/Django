@@ -1,0 +1,1 @@
+[2016-12-22 10:48:03] - [DEBUG] - [appLogger] - [module: worker] - [func: call_func_in_progress] - {"job": "test_job", "__module__": "common.message", "parameters": {"country": ["\u9999\u6e2f"], "taskid": 1002}, "func_name": "main", "class_name": null, "module_name": "compare.compare_basic_res", "__class__": "CommandMessage"}

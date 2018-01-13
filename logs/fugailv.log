@@ -1,0 +1,895 @@
+Fri, 23 Dec 2016 10:51:56 fugailv_ctrip.py[line:35] DEBUG ----------------country:泰国---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 10:51:56 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '泰国' group by city,category1]
+Fri, 23 Dec 2016 10:51:56 fugailv_ctrip.py[line:72] ERROR execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '泰国' group by city,category1] error : global name 'output' is not defined
+Fri, 23 Dec 2016 10:51:56 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:51:56 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:51:56 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:51:56 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:51:56 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:51:56 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:54:33 fugailv_ctrip.py[line:36] DEBUG ----------------country:泰国---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 10:54:33 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '泰国' group by city,category1]
+Fri, 23 Dec 2016 10:54:41 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 10:54:41 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f91ae17ca50>-- success !
+Fri, 23 Dec 2016 10:54:41 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:54:41 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:54:41 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:54:41 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:54:41 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:54:41 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:58:01 fugailv_ctrip.py[line:36] DEBUG ----------------country:泰国---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 10:58:01 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '泰国' group by city,category1]
+Fri, 23 Dec 2016 10:58:03 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 10:58:03 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fddcd3d1a50>-- success !
+Fri, 23 Dec 2016 10:58:03 fugailv_dp.py[line:35] DEBUG ----------------country:泰国---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 10:58:03 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '泰国' group by city,category1]
+Fri, 23 Dec 2016 10:58:05 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 10:58:05 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fddcceef030>-- success !
+Fri, 23 Dec 2016 10:58:05 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:58:05 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:58:05 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:58:05 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:58:05 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 10:58:05 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:09:42 fugailv_ctrip.py[line:35] DEBUG ----------------country:泰国---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:09:42 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '泰国' group by city,category1]
+Fri, 23 Dec 2016 11:09:47 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:09:47 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7ffe28001a50>-- success !
+Fri, 23 Dec 2016 11:09:47 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:09:47 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:09:47 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:09:47 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:09:47 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:09:47 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:10:42 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:10:43 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:10:43 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:10:43 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f23496b9a50>-- success !
+Fri, 23 Dec 2016 11:10:43 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:10:43 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:10:43 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:10:43 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:10:43 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:10:43 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:11:31 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:11:32 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:11:32 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:11:32 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fee2f007a50>-- success !
+Fri, 23 Dec 2016 11:11:32 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:11:32 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:12:16 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:12:16 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fee2eb23030>-- success !
+Fri, 23 Dec 2016 11:12:16 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:12:16 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:12:16 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:12:16 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:12:16 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:12:16 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:15:14 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:15:14 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:15:15 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:15:15 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fe7e5507a50>-- success !
+Fri, 23 Dec 2016 11:15:15 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:15:15 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:15:30 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:15:30 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fe7e5021030>-- success !
+Fri, 23 Dec 2016 11:15:30 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:15:30 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:19:22 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:19:22 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:19:22 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:19:22 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f5eafa30a50>-- success !
+Fri, 23 Dec 2016 11:19:22 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:19:22 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:19:38 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:19:38 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f5eaf54a030>-- success !
+Fri, 23 Dec 2016 11:19:38 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:19:38 chuli.py[line:104] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 11:24:01 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:24:01 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:24:02 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:24:02 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f538d482a50>-- success !
+Fri, 23 Dec 2016 11:24:02 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:24:02 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:24:17 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:24:17 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f538d2220c0>-- success !
+Fri, 23 Dec 2016 11:24:17 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 11:24:18 chuli.py[line:122] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 11:24:18 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 11:24:18 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 11:26:40 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:26:41 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:26:41 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:26:41 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f81e1a2aa50>-- success !
+Fri, 23 Dec 2016 11:26:41 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:26:41 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:26:57 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:26:57 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f81e17ca0c0>-- success !
+Fri, 23 Dec 2016 11:26:57 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 11:26:57 chuli.py[line:122] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 11:26:57 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 11:26:57 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 11:26:57 chuli.py[line:107] ERROR -----------------tongji ERROR : 'dict' object has no attribute 'key'--------------------
+Fri, 23 Dec 2016 11:26:57 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 11:29:42 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:29:43 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:29:43 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:29:43 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f3c70af5a50>-- success !
+Fri, 23 Dec 2016 11:29:43 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:29:43 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:29:59 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:29:59 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f3c708950c0>-- success !
+Fri, 23 Dec 2016 11:29:59 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 11:29:59 chuli.py[line:122] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 11:29:59 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 11:29:59 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 11:29:59 chuli.py[line:107] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 11:29:59 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 11:32:17 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:32:17 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:32:18 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:32:18 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f420c35aa50>-- success !
+Fri, 23 Dec 2016 11:32:18 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:32:18 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:32:34 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:32:34 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f420c0fa0c0>-- success !
+Fri, 23 Dec 2016 11:32:34 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 11:32:34 chuli.py[line:123] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 11:32:34 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 11:32:34 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 11:32:34 chuli.py[line:107] ERROR -----------------tongji ERROR : global name 'sql' is not defined--------------------
+Fri, 23 Dec 2016 11:32:34 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 11:33:46 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:33:47 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:33:47 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:33:47 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fcb8b5a5a50>-- success !
+Fri, 23 Dec 2016 11:33:47 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:33:47 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:34:03 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:34:03 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fcb8b3450c0>-- success !
+Fri, 23 Dec 2016 11:34:03 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 11:34:03 chuli.py[line:122] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 11:34:03 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 11:34:03 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 11:34:03 chuli.py[line:124] ERROR error : key
+Fri, 23 Dec 2016 11:34:03 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 11:34:59 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:35:00 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:35:00 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:35:00 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f044c0bfa50>-- success !
+Fri, 23 Dec 2016 11:35:00 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:35:00 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:35:16 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:35:16 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f044be5f0c0>-- success !
+Fri, 23 Dec 2016 11:35:16 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 11:35:16 chuli.py[line:122] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 11:35:16 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 11:35:16 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 11:35:16 chuli.py[line:124] ERROR error : 
+Fri, 23 Dec 2016 11:35:16 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 11:38:30 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:38:30 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:38:31 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:38:31 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f51c1d98a50>-- success !
+Fri, 23 Dec 2016 11:38:31 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:38:31 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:38:46 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:38:46 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f51c1b380c0>-- success !
+Fri, 23 Dec 2016 11:38:46 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 11:38:46 chuli.py[line:122] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 11:38:46 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 11:38:46 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 11:38:46 chuli.py[line:124] ERROR execute sql + [insert into platform_fugailv(Countryname,PoiCount,Time,taskid,src_type,type,category) values('香港',13,20161223113830,1003,'dp','全部','美食')] -------------------------------
+Fri, 23 Dec 2016 11:38:46 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 11:41:34 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 11:41:34 fugailv_ctrip.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:41:35 fugailv_ctrip.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:41:35 fugailv_ctrip.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fe3190dba50>-- success !
+Fri, 23 Dec 2016 11:41:35 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 11:41:35 fugailv_dp.py[line:59] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 11:41:50 fugailv_dp.py[line:63] DEBUG sql execute done !
+Fri, 23 Dec 2016 11:41:50 fugailv_dp.py[line:70] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fe318e7b0c0>-- success !
+Fri, 23 Dec 2016 11:41:50 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 11:41:50 chuli.py[line:122] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 11:41:50 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 11:41:50 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 11:41:50 chuli.py[line:122] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 11:41:50 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 12:34:06 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 12:34:07 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ctrip as basic inner join t_pic_ctrip as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:34:07 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:34:07 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fe2899d0a50>-- success !
+Fri, 23 Dec 2016 12:34:07 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:34:08 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:34:08 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fe2899d0a50>-- success !
+Fri, 23 Dec 2016 12:34:08 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:34:09 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:34:09 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fe2899d0a50>-- success !
+Fri, 23 Dec 2016 12:34:09 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:34:09 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:34:09 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fe2899d0a50>-- success !
+Fri, 23 Dec 2016 12:34:10 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:34:10 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:34:10 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fe2899d0a50>-- success !
+Fri, 23 Dec 2016 12:34:10 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:34:11 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:34:11 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fe2899d0a50>-- success !
+Fri, 23 Dec 2016 12:34:11 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 12:34:11 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_dp as basic inner join t_pic_dp as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:39:58 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:39:58 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fe2894f8030>-- success !
+Fri, 23 Dec 2016 12:39:58 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:40:14 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:40:14 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fe2894f8030>-- success !
+Fri, 23 Dec 2016 12:40:14 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:40:31 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:40:31 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fe2894f8030>-- success !
+Fri, 23 Dec 2016 12:40:31 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:40:48 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:40:48 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fe2894f8030>-- success !
+Fri, 23 Dec 2016 12:40:49 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:05 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:05 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fe2894f8030>-- success !
+Fri, 23 Dec 2016 12:41:05 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:24 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:24 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fe2894f8030>-- success !
+Fri, 23 Dec 2016 12:41:24 fugailv_ez.py[line:35] DEBUG ----------------country:香港---src_type:ez------taskid:1003-----------
+Fri, 23 Dec 2016 12:41:24 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ez as basic inner join t_pic_ez as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fe2894f80c0>-- success !
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fe2894f80c0>-- success !
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fe2894f80c0>-- success !
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fe2894f80c0>-- success !
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:25 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fe2894f80c0>-- success !
+Fri, 23 Dec 2016 12:41:26 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:26 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:26 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fe2894f80c0>-- success !
+Fri, 23 Dec 2016 12:41:26 fugailv_mfw.py[line:35] DEBUG ----------------country:香港---src_type:mfw------taskid:1003-----------
+Fri, 23 Dec 2016 12:41:26 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_mfw as basic inner join t_pic_mfw as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:41:53 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:53 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fe2894f8150>-- success !
+Fri, 23 Dec 2016 12:41:54 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:41:54 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:54 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fe2894f8150>-- success !
+Fri, 23 Dec 2016 12:41:54 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:54 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:54 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fe2894f8150>-- success !
+Fri, 23 Dec 2016 12:41:55 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:55 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:55 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fe2894f8150>-- success !
+Fri, 23 Dec 2016 12:41:55 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:55 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:55 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fe2894f8150>-- success !
+Fri, 23 Dec 2016 12:41:56 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:41:56 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:41:56 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fe2894f8150>-- success !
+Fri, 23 Dec 2016 12:41:56 fugailv_qy.py[line:35] DEBUG ----------------country:香港---src_type:qy------taskid:1003-----------
+Fri, 23 Dec 2016 12:41:56 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_qy as basic inner join t_pic_qy as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:42:28 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:28 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fe2894f81e0>-- success !
+Fri, 23 Dec 2016 12:42:28 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:42:28 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:28 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fe2894f81e0>-- success !
+Fri, 23 Dec 2016 12:42:29 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:42:29 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:29 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fe2894f81e0>-- success !
+Fri, 23 Dec 2016 12:42:29 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:42:30 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:30 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fe2894f81e0>-- success !
+Fri, 23 Dec 2016 12:42:30 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:42:30 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:30 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fe2894f81e0>-- success !
+Fri, 23 Dec 2016 12:42:30 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:42:31 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:31 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fe2894f81e0>-- success !
+Fri, 23 Dec 2016 12:42:31 fugailv_ta.py[line:35] DEBUG ----------------country:香港---src_type:ta------taskid:1003-----------
+Fri, 23 Dec 2016 12:42:31 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ta as basic inner join t_pic_ta as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:42:31 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:31 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fe2894f8270>-- success !
+Fri, 23 Dec 2016 12:42:31 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 12:42:33 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:33 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fe2894f8270>-- success !
+Fri, 23 Dec 2016 12:42:33 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:42:35 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:35 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fe2894f8270>-- success !
+Fri, 23 Dec 2016 12:42:35 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:42:37 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:37 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fe2894f8270>-- success !
+Fri, 23 Dec 2016 12:42:37 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:42:39 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:39 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fe2894f8270>-- success !
+Fri, 23 Dec 2016 12:42:40 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 12:42:42 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 12:42:42 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fe2894f8270>-- success !
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:57] DEBUG -------------------begin tongji ez----------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:115] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:60] DEBUG -------------------ez done----------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:62] DEBUG -------------------begin tongji mfw----------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:115] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:65] DEBUG -------------------mfw done----------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:67] DEBUG -------------------begin tongji qy----------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:115] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:70] DEBUG -------------------qy done----------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:72] DEBUG -------------------begin tongji ta----------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:115] ERROR -----------------tongji ERROR : --------------------
+Fri, 23 Dec 2016 12:42:42 chuli.py[line:75] DEBUG -------------------ta done----------------
+Fri, 23 Dec 2016 13:10:41 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 13:10:41 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ctrip as basic inner join t_pic_ctrip as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:10:42 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:10:42 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fa136956a50>-- success !
+Fri, 23 Dec 2016 13:10:42 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:10:42 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:10:42 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fa136956a50>-- success !
+Fri, 23 Dec 2016 13:10:42 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:10:43 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:10:43 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fa136956a50>-- success !
+Fri, 23 Dec 2016 13:10:43 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:10:44 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:10:44 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fa136956a50>-- success !
+Fri, 23 Dec 2016 13:10:44 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:10:45 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:10:45 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fa136956a50>-- success !
+Fri, 23 Dec 2016 13:10:45 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:10:45 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:10:45 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fa136956a50>-- success !
+Fri, 23 Dec 2016 13:10:45 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 13:10:45 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_dp as basic inner join t_pic_dp as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:14:24 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:14:24 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fa136473030>-- success !
+Fri, 23 Dec 2016 13:14:24 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:14:39 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:14:39 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fa136473030>-- success !
+Fri, 23 Dec 2016 13:14:39 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:14:57 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:14:57 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fa136473030>-- success !
+Fri, 23 Dec 2016 13:14:57 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:15:14 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:15:14 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fa136473030>-- success !
+Fri, 23 Dec 2016 13:15:14 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:15:31 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:15:31 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fa136473030>-- success !
+Fri, 23 Dec 2016 13:15:31 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:15:50 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:15:50 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fa136473030>-- success !
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:35] DEBUG ----------------country:香港---src_type:ez------taskid:1003-----------
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ez as basic inner join t_pic_ez as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fa1364730c0>-- success !
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fa1364730c0>-- success !
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:15:50 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fa1364730c0>-- success !
+Fri, 23 Dec 2016 13:15:51 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:15:51 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:15:51 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fa1364730c0>-- success !
+Fri, 23 Dec 2016 13:15:51 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:15:51 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:15:51 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fa1364730c0>-- success !
+Fri, 23 Dec 2016 13:15:51 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:15:51 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:15:51 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fa1364730c0>-- success !
+Fri, 23 Dec 2016 13:15:51 fugailv_mfw.py[line:35] DEBUG ----------------country:香港---src_type:mfw------taskid:1003-----------
+Fri, 23 Dec 2016 13:15:51 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_mfw as basic inner join t_pic_mfw as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:16:08 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:08 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fa136473150>-- success !
+Fri, 23 Dec 2016 13:16:08 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:16:08 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:08 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fa136473150>-- success !
+Fri, 23 Dec 2016 13:16:08 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:09 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:09 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fa136473150>-- success !
+Fri, 23 Dec 2016 13:16:09 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:09 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:09 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fa136473150>-- success !
+Fri, 23 Dec 2016 13:16:09 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:10 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:10 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fa136473150>-- success !
+Fri, 23 Dec 2016 13:16:10 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:10 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:10 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fa136473150>-- success !
+Fri, 23 Dec 2016 13:16:10 fugailv_qy.py[line:35] DEBUG ----------------country:香港---src_type:qy------taskid:1003-----------
+Fri, 23 Dec 2016 13:16:10 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_qy as basic inner join t_pic_qy as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:16:17 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:17 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fa1364731e0>-- success !
+Fri, 23 Dec 2016 13:16:17 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:16:17 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:17 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fa1364731e0>-- success !
+Fri, 23 Dec 2016 13:16:17 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:18 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:18 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fa1364731e0>-- success !
+Fri, 23 Dec 2016 13:16:18 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:18 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:18 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fa1364731e0>-- success !
+Fri, 23 Dec 2016 13:16:19 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:19 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:19 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fa1364731e0>-- success !
+Fri, 23 Dec 2016 13:16:19 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:20 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:20 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fa1364731e0>-- success !
+Fri, 23 Dec 2016 13:16:20 fugailv_ta.py[line:35] DEBUG ----------------country:香港---src_type:ta------taskid:1003-----------
+Fri, 23 Dec 2016 13:16:20 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ta as basic inner join t_pic_ta as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:16:20 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:20 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fa136473270>-- success !
+Fri, 23 Dec 2016 13:16:20 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:16:22 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:22 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fa136473270>-- success !
+Fri, 23 Dec 2016 13:16:22 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:24 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:24 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fa136473270>-- success !
+Fri, 23 Dec 2016 13:16:24 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:26 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:26 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fa136473270>-- success !
+Fri, 23 Dec 2016 13:16:26 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:28 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:28 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fa136473270>-- success !
+Fri, 23 Dec 2016 13:16:28 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:16:30 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:16:30 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fa136473270>-- success !
+Fri, 23 Dec 2016 13:16:30 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:57] DEBUG -------------------begin tongji ez----------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:60] DEBUG -------------------ez done----------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:62] DEBUG -------------------begin tongji mfw----------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:65] DEBUG -------------------mfw done----------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:67] DEBUG -------------------begin tongji qy----------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:70] DEBUG -------------------qy done----------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:72] DEBUG -------------------begin tongji ta----------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 13:16:31 chuli.py[line:75] DEBUG -------------------ta done----------------
+Fri, 23 Dec 2016 13:30:46 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 13:30:46 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ctrip as basic inner join t_pic_ctrip as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:30:47 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:30:47 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7e8640ea50>-- success !
+Fri, 23 Dec 2016 13:30:48 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:30:49 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:30:49 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7e8640ea50>-- success !
+Fri, 23 Dec 2016 13:30:49 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:30:49 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:30:49 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7e8640ea50>-- success !
+Fri, 23 Dec 2016 13:30:50 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:30:50 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:30:50 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7e8640ea50>-- success !
+Fri, 23 Dec 2016 13:30:50 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:30:51 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:30:51 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7e8640ea50>-- success !
+Fri, 23 Dec 2016 13:30:51 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:30:52 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:30:52 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7e8640ea50>-- success !
+Fri, 23 Dec 2016 13:30:52 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 13:30:52 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_dp as basic inner join t_pic_dp as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:34:30 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:34:30 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7e85f2c030>-- success !
+Fri, 23 Dec 2016 13:34:30 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:34:45 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:34:45 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7e85f2c030>-- success !
+Fri, 23 Dec 2016 13:34:45 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:35:02 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:02 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7e85f2c030>-- success !
+Fri, 23 Dec 2016 13:35:03 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:35:20 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:20 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7e85f2c030>-- success !
+Fri, 23 Dec 2016 13:35:20 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:35:37 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:37 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7e85f2c030>-- success !
+Fri, 23 Dec 2016 13:35:37 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:35:55 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:55 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7e85f2c030>-- success !
+Fri, 23 Dec 2016 13:35:55 fugailv_ez.py[line:35] DEBUG ----------------country:香港---src_type:ez------taskid:1003-----------
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ez as basic inner join t_pic_ez as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7f7e85f2c0c0>-- success !
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7f7e85f2c0c0>-- success !
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7f7e85f2c0c0>-- success !
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7f7e85f2c0c0>-- success !
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:56 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7f7e85f2c0c0>-- success !
+Fri, 23 Dec 2016 13:35:57 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:35:57 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:35:57 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7f7e85f2c0c0>-- success !
+Fri, 23 Dec 2016 13:35:57 fugailv_mfw.py[line:35] DEBUG ----------------country:香港---src_type:mfw------taskid:1003-----------
+Fri, 23 Dec 2016 13:35:57 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_mfw as basic inner join t_pic_mfw as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:36:13 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:13 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7f7e85f2c150>-- success !
+Fri, 23 Dec 2016 13:36:14 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:36:14 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:14 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7f7e85f2c150>-- success !
+Fri, 23 Dec 2016 13:36:14 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:14 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:14 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7f7e85f2c150>-- success !
+Fri, 23 Dec 2016 13:36:15 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:15 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:15 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7f7e85f2c150>-- success !
+Fri, 23 Dec 2016 13:36:15 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:15 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:15 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7f7e85f2c150>-- success !
+Fri, 23 Dec 2016 13:36:15 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:16 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:16 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7f7e85f2c150>-- success !
+Fri, 23 Dec 2016 13:36:16 fugailv_qy.py[line:35] DEBUG ----------------country:香港---src_type:qy------taskid:1003-----------
+Fri, 23 Dec 2016 13:36:16 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_qy as basic inner join t_pic_qy as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:36:22 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:22 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7f7e85f2c1e0>-- success !
+Fri, 23 Dec 2016 13:36:23 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:36:23 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:23 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7f7e85f2c1e0>-- success !
+Fri, 23 Dec 2016 13:36:23 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:24 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:24 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7f7e85f2c1e0>-- success !
+Fri, 23 Dec 2016 13:36:24 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:24 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:24 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7f7e85f2c1e0>-- success !
+Fri, 23 Dec 2016 13:36:24 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:25 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:25 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7f7e85f2c1e0>-- success !
+Fri, 23 Dec 2016 13:36:25 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:25 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:25 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7f7e85f2c1e0>-- success !
+Fri, 23 Dec 2016 13:36:25 fugailv_ta.py[line:35] DEBUG ----------------country:香港---src_type:ta------taskid:1003-----------
+Fri, 23 Dec 2016 13:36:25 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ta as basic inner join t_pic_ta as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:36:25 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:25 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7f7e85f2c270>-- success !
+Fri, 23 Dec 2016 13:36:26 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:36:27 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:27 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7f7e85f2c270>-- success !
+Fri, 23 Dec 2016 13:36:28 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:30 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:30 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7f7e85f2c270>-- success !
+Fri, 23 Dec 2016 13:36:30 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:32 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:32 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7f7e85f2c270>-- success !
+Fri, 23 Dec 2016 13:36:32 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:34 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:34 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7f7e85f2c270>-- success !
+Fri, 23 Dec 2016 13:36:34 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:36:36 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:36:36 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7f7e85f2c270>-- success !
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:57] DEBUG -------------------begin tongji ez----------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:60] DEBUG -------------------ez done----------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:62] DEBUG -------------------begin tongji mfw----------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:65] DEBUG -------------------mfw done----------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:67] DEBUG -------------------begin tongji qy----------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:70] DEBUG -------------------qy done----------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:72] DEBUG -------------------begin tongji ta----------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:36:36 chuli.py[line:75] DEBUG -------------------ta done----------------
+Fri, 23 Dec 2016 13:41:57 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 13:41:57 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ctrip as basic inner join t_pic_ctrip as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:41:57 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:41:57 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7ee9554a50>-- success !
+Fri, 23 Dec 2016 13:41:58 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:41:58 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:41:58 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7ee9554a50>-- success !
+Fri, 23 Dec 2016 13:41:58 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:41:59 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:41:59 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7ee9554a50>-- success !
+Fri, 23 Dec 2016 13:41:59 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:42:00 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:42:00 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7ee9554a50>-- success !
+Fri, 23 Dec 2016 13:42:00 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:42:00 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:42:00 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7ee9554a50>-- success !
+Fri, 23 Dec 2016 13:42:01 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:42:01 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:42:01 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7f7ee9554a50>-- success !
+Fri, 23 Dec 2016 13:42:01 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 13:42:01 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_dp as basic inner join t_pic_dp as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:45:39 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:45:39 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7ee92f50c0>-- success !
+Fri, 23 Dec 2016 13:45:39 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:45:54 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:45:54 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7ee92f50c0>-- success !
+Fri, 23 Dec 2016 13:45:55 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:46:12 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:46:12 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7ee92f50c0>-- success !
+Fri, 23 Dec 2016 13:46:12 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:46:29 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:46:29 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7ee92f50c0>-- success !
+Fri, 23 Dec 2016 13:46:29 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:46:46 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:46:46 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7ee92f50c0>-- success !
+Fri, 23 Dec 2016 13:46:46 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:47:05 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:47:05 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7f7ee92f50c0>-- success !
+Fri, 23 Dec 2016 13:49:25 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 13:49:25 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ctrip as basic inner join t_pic_ctrip as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:49:26 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:49:26 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd5dc22ba50>-- success !
+Fri, 23 Dec 2016 13:49:26 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:49:27 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:49:27 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd5dc22ba50>-- success !
+Fri, 23 Dec 2016 13:49:27 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:49:27 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:49:27 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd5dc22ba50>-- success !
+Fri, 23 Dec 2016 13:49:28 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:49:28 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:49:28 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd5dc22ba50>-- success !
+Fri, 23 Dec 2016 13:49:28 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:49:29 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:49:29 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd5dc22ba50>-- success !
+Fri, 23 Dec 2016 13:49:29 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:49:30 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:49:30 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd5dc22ba50>-- success !
+Fri, 23 Dec 2016 13:49:30 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 13:49:30 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_dp as basic inner join t_pic_dp as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:53:08 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:53:08 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd5dbd4a030>-- success !
+Fri, 23 Dec 2016 13:53:09 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:53:24 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:53:24 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd5dbd4a030>-- success !
+Fri, 23 Dec 2016 13:53:24 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:53:41 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:53:41 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd5dbd4a030>-- success !
+Fri, 23 Dec 2016 13:53:42 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:53:59 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:53:59 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd5dbd4a030>-- success !
+Fri, 23 Dec 2016 13:53:59 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:16 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:16 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd5dbd4a030>-- success !
+Fri, 23 Dec 2016 13:54:16 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:34 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:34 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd5dbd4a030>-- success !
+Fri, 23 Dec 2016 13:54:34 fugailv_ez.py[line:35] DEBUG ----------------country:香港---src_type:ez------taskid:1003-----------
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ez as basic inner join t_pic_ez as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd5dbd4a0c0>-- success !
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd5dbd4a0c0>-- success !
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd5dbd4a0c0>-- success !
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd5dbd4a0c0>-- success !
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:35 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd5dbd4a0c0>-- success !
+Fri, 23 Dec 2016 13:54:36 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:36 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:36 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd5dbd4a0c0>-- success !
+Fri, 23 Dec 2016 13:54:36 fugailv_mfw.py[line:35] DEBUG ----------------country:香港---src_type:mfw------taskid:1003-----------
+Fri, 23 Dec 2016 13:54:36 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_mfw as basic inner join t_pic_mfw as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:54:52 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:52 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd5dbd4a150>-- success !
+Fri, 23 Dec 2016 13:54:53 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:54:53 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:53 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd5dbd4a150>-- success !
+Fri, 23 Dec 2016 13:54:53 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:53 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:53 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd5dbd4a150>-- success !
+Fri, 23 Dec 2016 13:54:54 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:54 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:54 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd5dbd4a150>-- success !
+Fri, 23 Dec 2016 13:54:54 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:54 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:54 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd5dbd4a150>-- success !
+Fri, 23 Dec 2016 13:54:54 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:54:55 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:54:55 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd5dbd4a150>-- success !
+Fri, 23 Dec 2016 13:54:55 fugailv_qy.py[line:35] DEBUG ----------------country:香港---src_type:qy------taskid:1003-----------
+Fri, 23 Dec 2016 13:54:55 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_qy as basic inner join t_pic_qy as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:55:01 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:01 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd5dbd4a1e0>-- success !
+Fri, 23 Dec 2016 13:55:02 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:55:02 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:02 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd5dbd4a1e0>-- success !
+Fri, 23 Dec 2016 13:55:02 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:55:03 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:03 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd5dbd4a1e0>-- success !
+Fri, 23 Dec 2016 13:55:03 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:55:03 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:03 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd5dbd4a1e0>-- success !
+Fri, 23 Dec 2016 13:55:03 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:55:04 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:04 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd5dbd4a1e0>-- success !
+Fri, 23 Dec 2016 13:55:04 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:55:04 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:04 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd5dbd4a1e0>-- success !
+Fri, 23 Dec 2016 13:55:04 fugailv_ta.py[line:35] DEBUG ----------------country:香港---src_type:ta------taskid:1003-----------
+Fri, 23 Dec 2016 13:55:04 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ta as basic inner join t_pic_ta as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:55:04 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:04 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd5dbd4a270>-- success !
+Fri, 23 Dec 2016 13:55:05 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:55:06 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:06 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd5dbd4a270>-- success !
+Fri, 23 Dec 2016 13:55:07 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:55:09 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:09 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd5dbd4a270>-- success !
+Fri, 23 Dec 2016 13:55:09 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:55:11 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:11 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd5dbd4a270>-- success !
+Fri, 23 Dec 2016 13:55:11 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:55:13 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:13 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd5dbd4a270>-- success !
+Fri, 23 Dec 2016 13:55:13 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:55:15 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:55:15 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd5dbd4a270>-- success !
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:57] DEBUG -------------------begin tongji ez----------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:60] DEBUG -------------------ez done----------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:62] DEBUG -------------------begin tongji mfw----------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:65] DEBUG -------------------mfw done----------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:67] DEBUG -------------------begin tongji qy----------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:70] DEBUG -------------------qy done----------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:72] DEBUG -------------------begin tongji ta----------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:115] ERROR -----------------tongji ERROR : local variable 'sql' referenced before assignment--------------------
+Fri, 23 Dec 2016 13:55:15 chuli.py[line:75] DEBUG -------------------ta done----------------
+Fri, 23 Dec 2016 13:58:41 fugailv_ctrip.py[line:35] DEBUG ----------------country:香港---src_type:ctrip------taskid:1003-----------
+Fri, 23 Dec 2016 13:58:42 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ctrip as basic inner join t_pic_ctrip as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:58:42 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:58:42 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd88a2fea50>-- success !
+Fri, 23 Dec 2016 13:58:42 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 13:58:43 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:58:43 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd88a2fea50>-- success !
+Fri, 23 Dec 2016 13:58:43 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:58:44 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:58:44 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd88a2fea50>-- success !
+Fri, 23 Dec 2016 13:58:44 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:58:45 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:58:45 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd88a2fea50>-- success !
+Fri, 23 Dec 2016 13:58:45 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:58:45 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:58:45 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd88a2fea50>-- success !
+Fri, 23 Dec 2016 13:58:45 fugailv_ctrip.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ctrip where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 13:58:46 fugailv_ctrip.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 13:58:46 fugailv_ctrip.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ctrip.txt', mode 'w' at 0x7fd88a2fea50>-- success !
+Fri, 23 Dec 2016 13:58:46 fugailv_dp.py[line:35] DEBUG ----------------country:香港---src_type:dp------taskid:1003-----------
+Fri, 23 Dec 2016 13:58:46 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_dp as basic inner join t_pic_dp as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:02:25 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:02:25 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd889e1c030>-- success !
+Fri, 23 Dec 2016 14:02:25 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:02:40 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:02:40 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd889e1c030>-- success !
+Fri, 23 Dec 2016 14:02:40 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:02:57 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:02:57 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd889e1c030>-- success !
+Fri, 23 Dec 2016 14:02:58 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:03:15 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:03:15 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd889e1c030>-- success !
+Fri, 23 Dec 2016 14:03:15 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:03:32 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:03:32 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd889e1c030>-- success !
+Fri, 23 Dec 2016 14:03:32 fugailv_dp.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_dp where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:03:50 fugailv_dp.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:03:50 fugailv_dp.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_dp.txt', mode 'w' at 0x7fd889e1c030>-- success !
+Fri, 23 Dec 2016 14:03:50 fugailv_ez.py[line:35] DEBUG ----------------country:香港---src_type:ez------taskid:1003-----------
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ez as basic inner join t_pic_ez as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd889e1c0c0>-- success !
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd889e1c0c0>-- success !
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd889e1c0c0>-- success !
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd889e1c0c0>-- success !
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:03:51 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd889e1c0c0>-- success !
+Fri, 23 Dec 2016 14:03:52 fugailv_ez.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ez where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:03:52 fugailv_ez.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:03:52 fugailv_ez.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ez.txt', mode 'w' at 0x7fd889e1c0c0>-- success !
+Fri, 23 Dec 2016 14:03:52 fugailv_mfw.py[line:35] DEBUG ----------------country:香港---src_type:mfw------taskid:1003-----------
+Fri, 23 Dec 2016 14:03:52 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_mfw as basic inner join t_pic_mfw as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:04:08 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:08 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd889e1c150>-- success !
+Fri, 23 Dec 2016 14:04:09 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:04:09 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:09 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd889e1c150>-- success !
+Fri, 23 Dec 2016 14:04:09 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:09 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:09 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd889e1c150>-- success !
+Fri, 23 Dec 2016 14:04:10 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:10 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:10 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd889e1c150>-- success !
+Fri, 23 Dec 2016 14:04:10 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:10 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:10 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd889e1c150>-- success !
+Fri, 23 Dec 2016 14:04:10 fugailv_mfw.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_mfw where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:11 fugailv_mfw.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:11 fugailv_mfw.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_mfw.txt', mode 'w' at 0x7fd889e1c150>-- success !
+Fri, 23 Dec 2016 14:04:11 fugailv_qy.py[line:35] DEBUG ----------------country:香港---src_type:qy------taskid:1003-----------
+Fri, 23 Dec 2016 14:04:11 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_qy as basic inner join t_pic_qy as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:04:17 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:17 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd889e1c1e0>-- success !
+Fri, 23 Dec 2016 14:04:18 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:04:18 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:18 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd889e1c1e0>-- success !
+Fri, 23 Dec 2016 14:04:18 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:18 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:18 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd889e1c1e0>-- success !
+Fri, 23 Dec 2016 14:04:19 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:19 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:19 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd889e1c1e0>-- success !
+Fri, 23 Dec 2016 14:04:19 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:20 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:20 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd889e1c1e0>-- success !
+Fri, 23 Dec 2016 14:04:20 fugailv_qy.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_qy where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:20 fugailv_qy.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:20 fugailv_qy.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_qy.txt', mode 'w' at 0x7fd889e1c1e0>-- success !
+Fri, 23 Dec 2016 14:04:20 fugailv_ta.py[line:35] DEBUG ----------------country:香港---src_type:ta------taskid:1003-----------
+Fri, 23 Dec 2016 14:04:20 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(distinct basic.sid) from poi_basic_ta as basic inner join t_pic_ta as pic on basic.sid = pic.sid where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:04:20 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:20 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd889e1c270>-- success !
+Fri, 23 Dec 2016 14:04:21 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' group by city,category1]
+Fri, 23 Dec 2016 14:04:22 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:22 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd889e1c270>-- success !
+Fri, 23 Dec 2016 14:04:22 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and address is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:25 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:25 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd889e1c270>-- success !
+Fri, 23 Dec 2016 14:04:25 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and phone is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:27 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:27 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd889e1c270>-- success !
+Fri, 23 Dec 2016 14:04:27 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and overall_rating is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:29 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:29 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd889e1c270>-- success !
+Fri, 23 Dec 2016 14:04:29 fugailv_ta.py[line:60] DEBUG execute sql :[select city,category1,count(sid) from poi_basic_ta where city = '香港' and price is not NULL group by city,category1]
+Fri, 23 Dec 2016 14:04:31 fugailv_ta.py[line:64] DEBUG sql execute done !
+Fri, 23 Dec 2016 14:04:31 fugailv_ta.py[line:71] DEBUG  ------------------data write into --<open file '/home/users/qiuqian01/django/fuwu/baidu/map-intl-qa/app-demo/fugailv/result/fugailv_ta.txt', mode 'w' at 0x7fd889e1c270>-- success !
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:47] DEBUG ---------------begin tongji ctrip-----------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:50] DEBUG -------------------ctrip done---------------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:52] DEBUG -------------------begin tongji dp----------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:55] DEBUG ------------------dp done-------------------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:57] DEBUG -------------------begin tongji ez----------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:60] DEBUG -------------------ez done----------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:62] DEBUG -------------------begin tongji mfw----------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:65] DEBUG -------------------mfw done----------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:67] DEBUG -------------------begin tongji qy----------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:70] DEBUG -------------------qy done----------------
+Fri, 23 Dec 2016 14:04:31 chuli.py[line:72] DEBUG -------------------begin tongji ta----------------
+Fri, 23 Dec 2016 14:04:32 chuli.py[line:130] DEBUG --------------------------data write into platform_fugailv success!------------------------
+Fri, 23 Dec 2016 14:04:32 chuli.py[line:75] DEBUG -------------------ta done----------------
